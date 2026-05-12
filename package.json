@@ -1,0 +1,19 @@
+{
+  "name": "lever-framework-launch",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A lightweight landing page and product concept for the LEVER future-readiness framework.",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
